@@ -1,4 +1,4 @@
-his is a custom printf function built as a project for the alx software engineering program.
+This is a custom printf function built as a project for the alx software engineering program.
 
 Contributors
 Chinyere Priscilla Ikeji
